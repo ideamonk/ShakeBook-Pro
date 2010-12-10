@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST
+applesms.c
+example.py
+setup.py
+PyAppleSMS.egg-info/PKG-INFO
+PyAppleSMS.egg-info/SOURCES.txt
+PyAppleSMS.egg-info/dependency_links.txt
+PyAppleSMS.egg-info/top_level.txt

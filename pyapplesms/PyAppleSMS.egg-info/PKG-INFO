@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: PyAppleSMS
+Version: 1.0
+Summary: Python module for Apple SMS (Sudden Motion Sensor)
+Home-page: http://www.blackbirdblog.it/progetti/pyapplesms
+Author: Michele Ferretti
+Author-email: michele.ferretti@gmail.com
+License: UNKNOWN
+Download-URL: http://www.blackbirdblog.it/download/software/PyAppleSMS-1.0.tar.gz
+Description: This module allows you to access in Apple SMS (Sudden Motion Sensor). SMS sensor are installed by default in all new Apple laptops and it returns x, y, z coordinates about laptop movements.
+        For more informations read this page of Wikipedia: http://en.wikipedia.org/wiki/Sudden_Motion_Sensor
+Platform: UNKNOWN
+Classifier: Classifier: Environment :: MacOS X
+Classifier: Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Classifier: Topic :: Scientific/Engineering :: Human Machine Interfaces
+Classifier: Classifier: Topic :: Software Development :: Libraries
+Classifier: Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Classifier: Topic :: System :: Hardware

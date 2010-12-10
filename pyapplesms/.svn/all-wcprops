@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/!svn/ver/4/trunk
+END
+example.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/example.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/LICENSE
+END
+applesms.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/4/trunk/applesms.c
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/MANIFEST
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/3/trunk/setup.py
+END
